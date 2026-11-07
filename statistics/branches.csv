@@ -1,0 +1,151 @@
+branch_id,branch_name,city,state,region,location_type,opened_year,signage_present,written_refusal_policy,staff_training_hours_year
+1,Example Kitchen #001,New York,NY,Northeast,urban,2018,0,1,9.9
+2,Example Kitchen #002,New York,NY,Northeast,suburban,2015,0,0,2.5
+3,Example Kitchen #003,New York,NY,Northeast,highway,2008,0,1,5.0
+4,Example Kitchen #004,Buffalo,NY,Northeast,urban,2010,0,0,6.4
+5,Example Kitchen #005,Buffalo,NY,Northeast,suburban,2011,0,0,3.1
+6,Example Kitchen #006,Buffalo,NY,Northeast,highway,2015,0,1,9.7
+7,Example Kitchen #007,Boston,MA,Northeast,urban,2006,0,0,4.4
+8,Example Kitchen #008,Boston,MA,Northeast,suburban,2022,0,0,11.1
+9,Example Kitchen #009,Boston,MA,Northeast,highway,2007,0,1,13.7
+10,Example Kitchen #010,Philadelphia,PA,Northeast,urban,2007,0,1,15.7
+11,Example Kitchen #011,Philadelphia,PA,Northeast,suburban,2010,0,0,4.1
+12,Example Kitchen #012,Philadelphia,PA,Northeast,highway,2020,0,1,3.0
+13,Example Kitchen #013,Pittsburgh,PA,Northeast,urban,2022,0,0,12.2
+14,Example Kitchen #014,Pittsburgh,PA,Northeast,suburban,2020,0,1,15.1
+15,Example Kitchen #015,Pittsburgh,PA,Northeast,highway,2008,0,1,4.9
+16,Example Kitchen #016,Newark,NJ,Northeast,urban,2006,0,0,5.1
+17,Example Kitchen #017,Newark,NJ,Northeast,suburban,2017,0,1,6.4
+18,Example Kitchen #018,Newark,NJ,Northeast,highway,2006,0,0,8.5
+19,Example Kitchen #019,Hartford,CT,Northeast,urban,2006,0,0,6.0
+20,Example Kitchen #020,Hartford,CT,Northeast,suburban,2013,0,1,11.8
+21,Example Kitchen #021,Hartford,CT,Northeast,highway,2019,0,1,4.3
+22,Example Kitchen #022,Providence,RI,Northeast,urban,2014,0,0,3.8
+23,Example Kitchen #023,Providence,RI,Northeast,suburban,2006,0,0,12.7
+24,Example Kitchen #024,Providence,RI,Northeast,highway,2015,0,1,2.1
+25,Example Kitchen #025,Chicago,IL,Midwest,urban,2014,0,1,6.7
+26,Example Kitchen #026,Chicago,IL,Midwest,suburban,2008,0,1,14.8
+27,Example Kitchen #027,Chicago,IL,Midwest,highway,2024,0,1,6.9
+28,Example Kitchen #028,Columbus,OH,Midwest,urban,2006,0,1,12.4
+29,Example Kitchen #029,Columbus,OH,Midwest,suburban,2024,0,1,14.3
+30,Example Kitchen #030,Columbus,OH,Midwest,highway,2024,0,1,15.4
+31,Example Kitchen #031,Cleveland,OH,Midwest,urban,2009,0,1,12.7
+32,Example Kitchen #032,Cleveland,OH,Midwest,suburban,2024,0,0,6.3
+33,Example Kitchen #033,Cleveland,OH,Midwest,highway,2007,0,1,6.4
+34,Example Kitchen #034,Detroit,MI,Midwest,urban,2007,0,0,9.0
+35,Example Kitchen #035,Detroit,MI,Midwest,suburban,2022,0,0,2.3
+36,Example Kitchen #036,Detroit,MI,Midwest,highway,2023,0,1,15.5
+37,Example Kitchen #037,Indianapolis,IN,Midwest,urban,2024,0,1,7.3
+38,Example Kitchen #038,Indianapolis,IN,Midwest,suburban,2013,0,0,11.1
+39,Example Kitchen #039,Indianapolis,IN,Midwest,highway,2008,0,1,7.8
+40,Example Kitchen #040,Milwaukee,WI,Midwest,urban,2018,0,0,10.4
+41,Example Kitchen #041,Milwaukee,WI,Midwest,suburban,2010,0,1,9.5
+42,Example Kitchen #042,Milwaukee,WI,Midwest,highway,2011,0,0,6.8
+43,Example Kitchen #043,Minneapolis,MN,Midwest,urban,2006,0,1,5.0
+44,Example Kitchen #044,Minneapolis,MN,Midwest,suburban,2018,0,0,2.3
+45,Example Kitchen #045,Minneapolis,MN,Midwest,highway,2022,0,1,14.6
+46,Example Kitchen #046,Kansas City,MO,Midwest,urban,2018,0,1,3.5
+47,Example Kitchen #047,Kansas City,MO,Midwest,suburban,2017,0,0,7.5
+48,Example Kitchen #048,Kansas City,MO,Midwest,highway,2011,0,1,11.7
+49,Example Kitchen #049,St. Louis,MO,Midwest,urban,2016,0,1,11.7
+50,Example Kitchen #050,St. Louis,MO,Midwest,suburban,2019,0,1,12.6
+51,Example Kitchen #051,St. Louis,MO,Midwest,highway,2013,0,0,8.7
+52,Example Kitchen #052,Omaha,NE,Midwest,urban,2007,0,1,3.8
+53,Example Kitchen #053,Omaha,NE,Midwest,suburban,2007,0,0,7.4
+54,Example Kitchen #054,Omaha,NE,Midwest,highway,2011,0,0,6.0
+55,Example Kitchen #055,Atlanta,GA,South,urban,2014,0,1,11.0
+56,Example Kitchen #056,Atlanta,GA,South,suburban,2014,0,0,6.2
+57,Example Kitchen #057,Atlanta,GA,South,highway,2008,0,1,11.1
+58,Example Kitchen #058,Miami,FL,South,urban,2014,0,1,13.1
+59,Example Kitchen #059,Miami,FL,South,suburban,2013,0,0,4.1
+60,Example Kitchen #060,Miami,FL,South,highway,2008,0,1,4.6
+61,Example Kitchen #061,Orlando,FL,South,urban,2008,0,0,2.3
+62,Example Kitchen #062,Orlando,FL,South,suburban,2023,0,1,3.4
+63,Example Kitchen #063,Orlando,FL,South,highway,2023,0,1,2.9
+64,Example Kitchen #064,Tampa,FL,South,urban,2008,0,0,4.3
+65,Example Kitchen #065,Tampa,FL,South,suburban,2007,0,1,14.2
+66,Example Kitchen #066,Tampa,FL,South,highway,2023,0,0,13.0
+67,Example Kitchen #067,Charlotte,NC,South,urban,2021,0,0,10.2
+68,Example Kitchen #068,Charlotte,NC,South,suburban,2020,0,0,14.7
+69,Example Kitchen #069,Charlotte,NC,South,highway,2018,0,1,4.5
+70,Example Kitchen #070,Raleigh,NC,South,urban,2018,0,1,10.9
+71,Example Kitchen #071,Raleigh,NC,South,suburban,2022,0,1,10.2
+72,Example Kitchen #072,Raleigh,NC,South,highway,2013,0,1,12.9
+73,Example Kitchen #073,Nashville,TN,South,urban,2012,0,1,5.4
+74,Example Kitchen #074,Nashville,TN,South,suburban,2007,0,0,13.2
+75,Example Kitchen #075,Nashville,TN,South,highway,2021,0,1,11.7
+76,Example Kitchen #076,Dallas,TX,South,urban,2018,0,0,7.9
+77,Example Kitchen #077,Dallas,TX,South,suburban,2008,0,1,7.8
+78,Example Kitchen #078,Dallas,TX,South,highway,2012,0,0,12.4
+79,Example Kitchen #079,Houston,TX,South,urban,2017,0,1,5.6
+80,Example Kitchen #080,Houston,TX,South,suburban,2008,0,0,10.7
+81,Example Kitchen #081,Houston,TX,South,highway,2006,0,0,3.8
+82,Example Kitchen #082,Austin,TX,South,urban,2024,0,1,4.2
+83,Example Kitchen #083,Austin,TX,South,suburban,2017,0,1,15.1
+84,Example Kitchen #084,Austin,TX,South,highway,2011,0,0,5.3
+85,Example Kitchen #085,San Antonio,TX,South,urban,2020,0,1,4.4
+86,Example Kitchen #086,San Antonio,TX,South,suburban,2014,0,0,4.2
+87,Example Kitchen #087,San Antonio,TX,South,highway,2013,0,0,5.3
+88,Example Kitchen #088,New Orleans,LA,South,urban,2022,0,1,13.9
+89,Example Kitchen #089,New Orleans,LA,South,suburban,2017,0,1,2.4
+90,Example Kitchen #090,New Orleans,LA,South,highway,2018,0,1,8.4
+91,Example Kitchen #091,Washington,DC,South,urban,2006,0,1,14.8
+92,Example Kitchen #092,Washington,DC,South,suburban,2018,0,1,5.4
+93,Example Kitchen #093,Washington,DC,South,highway,2024,0,0,6.5
+94,Example Kitchen #094,Richmond,VA,South,urban,2018,0,1,15.9
+95,Example Kitchen #095,Richmond,VA,South,suburban,2024,0,0,11.2
+96,Example Kitchen #096,Richmond,VA,South,highway,2018,0,1,13.5
+97,Example Kitchen #097,Birmingham,AL,South,urban,2006,0,1,5.8
+98,Example Kitchen #098,Birmingham,AL,South,suburban,2015,0,1,10.9
+99,Example Kitchen #099,Birmingham,AL,South,highway,2011,0,0,2.0
+100,Example Kitchen #100,Denver,CO,West,urban,2009,0,0,3.7
+101,Example Kitchen #101,Denver,CO,West,suburban,2024,0,1,4.9
+102,Example Kitchen #102,Denver,CO,West,highway,2013,0,1,3.2
+103,Example Kitchen #103,Phoenix,AZ,West,urban,2014,0,1,15.5
+104,Example Kitchen #104,Phoenix,AZ,West,suburban,2009,0,1,14.0
+105,Example Kitchen #105,Phoenix,AZ,West,highway,2018,0,1,3.6
+106,Example Kitchen #106,Las Vegas,NV,West,urban,2012,0,0,13.4
+107,Example Kitchen #107,Las Vegas,NV,West,suburban,2007,0,1,5.6
+108,Example Kitchen #108,Las Vegas,NV,West,highway,2007,0,1,2.6
+109,Example Kitchen #109,Los Angeles,CA,West,urban,2008,0,1,7.9
+110,Example Kitchen #110,Los Angeles,CA,West,suburban,2024,0,0,4.7
+111,Example Kitchen #111,Los Angeles,CA,West,highway,2010,0,1,2.2
+112,Example Kitchen #112,San Diego,CA,West,urban,2019,0,1,6.4
+113,Example Kitchen #113,San Diego,CA,West,suburban,2020,0,0,4.4
+114,Example Kitchen #114,San Diego,CA,West,highway,2020,0,1,14.5
+115,Example Kitchen #115,San Francisco,CA,West,urban,2010,0,1,5.8
+116,Example Kitchen #116,San Francisco,CA,West,suburban,2019,0,1,10.9
+117,Example Kitchen #117,San Francisco,CA,West,highway,2014,0,1,13.5
+118,Example Kitchen #118,Sacramento,CA,West,urban,2007,0,1,9.0
+119,Example Kitchen #119,Sacramento,CA,West,suburban,2020,0,1,12.0
+120,Example Kitchen #120,Sacramento,CA,West,highway,2024,0,1,10.6
+121,Example Kitchen #121,Seattle,WA,West,urban,2021,0,1,8.0
+122,Example Kitchen #122,Seattle,WA,West,suburban,2012,0,1,14.9
+123,Example Kitchen #123,Seattle,WA,West,highway,2021,0,1,15.5
+124,Example Kitchen #124,Portland,OR,West,urban,2010,0,0,9.7
+125,Example Kitchen #125,Portland,OR,West,suburban,2008,0,1,4.7
+126,Example Kitchen #126,Portland,OR,West,highway,2013,0,0,15.8
+127,Example Kitchen #127,Salt Lake City,UT,West,urban,2007,0,0,11.3
+128,Example Kitchen #128,Salt Lake City,UT,West,suburban,2015,0,0,6.0
+129,Example Kitchen #129,Salt Lake City,UT,West,highway,2009,0,0,9.1
+130,Example Kitchen #130,Albuquerque,NM,West,urban,2012,0,1,6.3
+131,Example Kitchen #131,Albuquerque,NM,West,suburban,2024,0,1,14.0
+132,Example Kitchen #132,Albuquerque,NM,West,highway,2013,0,1,14.5
+133,Example Kitchen #133,Boise,ID,West,urban,2023,0,0,5.3
+134,Example Kitchen #134,Boise,ID,West,suburban,2008,0,1,15.8
+135,Example Kitchen #135,Boise,ID,West,highway,2010,0,0,2.1
+136,Example Kitchen #136,Tucson,AZ,West,urban,2009,0,1,8.9
+137,Example Kitchen #137,Tucson,AZ,West,suburban,2023,0,1,5.5
+138,Example Kitchen #138,Tucson,AZ,West,highway,2019,0,1,6.6
+139,Example Kitchen #139,Fresno,CA,West,urban,2024,0,0,6.2
+140,Example Kitchen #140,Fresno,CA,West,suburban,2009,0,1,6.7
+141,Example Kitchen #141,Fresno,CA,West,highway,2018,0,1,11.6
+142,Example Kitchen #142,Spokane,WA,West,urban,2011,0,1,14.3
+143,Example Kitchen #143,Spokane,WA,West,suburban,2019,0,0,6.5
+144,Example Kitchen #144,Spokane,WA,West,highway,2013,0,0,13.5
+145,Example Kitchen #145,Honolulu,HI,West,urban,2015,0,1,8.6
+146,Example Kitchen #146,Honolulu,HI,West,suburban,2022,0,1,14.1
+147,Example Kitchen #147,Honolulu,HI,West,highway,2019,0,1,12.1
+148,Example Kitchen #148,Anchorage,AK,West,urban,2021,0,1,10.0
+149,Example Kitchen #149,Anchorage,AK,West,suburban,2014,0,0,12.6
+150,Example Kitchen #150,Anchorage,AK,West,highway,2013,0,0,5.6
